@@ -1,7 +1,7 @@
 {
   "name": "gatsby-remark-fenced_divs",
   "description": "Gatsby remark plugin for adding pandoc fenced_divs in markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Benjamin Abel <dev.abel@free.fr> (https://lyceum.fr)",
   "bugs": {
     "url": "https://github.com/benabel/gatsby-remark-fenced-divs/issues"
