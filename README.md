@@ -1,6 +1,7 @@
 # gatsby-remark-fenced-divs
 
-Adds fenced-divs `MarkdownRemark` using
+Adds `fencedDivs` blocks in markdown syntax tree produced by `remark`, and
+convert them to `<div>`s in `html` using
 [remark-fenced-divs](https://github.com/benabel/remark-fenced-divs).
 
 This plugin aims to imitate the comportment of the pandoc extension
