@@ -1,3 +1,12 @@
+# DEPRECATED 
+
+![No Maintenance Intended](https://img.shields.io/maintenance/no/2021.svg)
+
+_This plugin will not be upgraded for latests versions of remark that use micromark._
+
+You should use [remark-directive](https://github.com/remarkjs/remark-directive) as a remplacement.
+
+
 # gatsby-remark-fenced-divs
 
 Adds `fencedDivs` blocks in markdown syntax tree produced by `remark`, and
